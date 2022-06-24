@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="junit5_curso1" />
+        <module name="junit_app" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="junit5_curso1" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
